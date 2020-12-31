@@ -1,0 +1,668 @@
+body{
+    font-family: calibri;
+}
+.first{
+    background-color: rgb(3, 34, 100);
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 8px;
+}
+.clo{
+    margin-left: 26px;
+    margin-top: -24px;
+    
+}
+.firstcol2{
+    margin-left: -10px;
+}
+.tim{
+    font-size: 18px;
+}
+.fa-clock{
+    font-weight: 500 !important;
+}
+.socico{
+    padding: 4px;
+    padding-left: 6px;
+    background-color:  rgb(32, 53, 97);
+    color:white;
+    margin-right: 15px;
+    width: 30px;
+    height: 25px;
+    border: 1px solid  rgb(32, 53, 97);
+    border-radius: 30px;
+}
+.social{
+    margin-left: 200px;
+}
+.secdiv{
+    padding-top: 30px;
+}
+.fa-car-mechanic{
+    font-size: 60px !important;
+  background: -webkit-linear-gradient(rgb(250, 94, 3), rgb(245, 124, 55));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.brandname{
+    margin-top: -65px;
+    margin-left: 70px;
+}
+.auta{
+    display: inline;
+    color: rgb(17, 41, 92);
+    font-size: 37px !important;
+}
+.logic{
+    display: inline;
+    color: rgb(250, 94, 3);
+    margin-left: -4px;
+    font-weight: 530 !important;
+    font-size: 37px !important;
+}
+.car{
+    color: rgb(17, 41, 92);
+}
+.fa-envelope-open-text{
+    color:  rgb(250, 94, 3);
+    font-size: 28px !important;
+}
+.fa-phone-volume{
+    transform: rotate(-40deg);
+    color:  rgb(250, 94, 3);
+    font-size: 28px !important;
+}
+.con{
+    margin-left: 50px;
+    margin-top: -45px;
+}
+.btn-primary{
+    background-color:  rgb(250, 94, 3);
+    color: white;
+    border: 1px solid rgb(250, 94, 3);
+    height: 50px;
+    width: 130px;
+    transition: 0.2s all ease-in-out;
+}
+.btn-primary:hover{
+    color:  rgb(250, 94, 3);
+    background-color: white;
+    border: 1px solid rgb(250, 94, 3);
+}
+.secdivseccol{
+    margin-left: 160px;
+}
+.navbar{
+    background-color: rgb(250, 94, 3) !important; 
+    margin-top: 8px;
+}
+.nav-item{
+    margin-left: 15px;
+}
+.nav-link{
+    color: white !important;
+    transition: 0.3s all ease-in-out;
+}
+.nav-link:hover{
+    text-decoration: underline;
+}
+.navcol{
+    font-size: 19px;
+    font-weight: 540!important;
+    margin-left: 80px !important;
+}
+.drpitem{
+    transition: 0.2s all ease-in-out;
+}
+.drpitem:hover{
+    color:  rgb(250, 94, 3);
+}
+.sticky {
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+    height: 100px;
+}
+.btn-secondary{
+    background-color:  rgb(250, 94, 3);
+    color: white;
+    border: 1px solid rgb(250, 94, 3);
+    height: 50px;
+    width: 130px;
+    transition: 0.2s all ease-in-out;
+    font-weight: 600;
+    font-size: 18px;
+    margin-top: 30px;
+}
+.btn-secondary:hover{
+    color:  rgb(250, 94, 3);
+    background-color: white;
+    border: 1px solid rgb(250, 94, 3);
+}
+.carousel-caption{
+    margin-bottom: 200px !important;
+    text-align: left;
+    width: 50%;
+   
+}
+.h1{
+    font-weight: 550;
+    font-size: 60px !important;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.imgico{
+    color: rgb(250, 94, 3);
+    font-size: 40px;
+    font-weight: 700 !important;
+    padding: 25px 0px 0px 35px;
+    border: 1px solid grey;
+    width: 110px;
+    height: 110px;
+}
+.thirddiv{
+    background-color: rgb(235, 235, 235);
+    padding-top: 20px ;
+    height: 150px;
+}
+.thirdwrite{
+    margin-left: 130px;
+    margin-top: -110px;
+}
+.caro{
+    margin-top: -40px;
+}
+.fourthdiv{
+    padding-top: 90px;
+}
+.img{
+    border: 2px solid wheat;
+    padding: 10px;
+    width: 85%;
+    height: 82%;
+}
+.about{
+    color: rgb(250, 94, 3);
+    font-weight: 600;
+}
+.how{
+    color:  rgb(17, 41, 92);
+    font-weight: 600 !important;
+}
+.hr{
+    margin-top: -35px;
+    color:  rgb(250, 94, 3);
+}
+.para{
+    font-size: 19px;
+    font-weight:  normal;
+}
+.readmore{
+    font-size: 20px;
+    font-weight: bold;
+    width: 150px;
+}
+.fourthseccol{
+    margin-top: 40px;
+    margin-left: -40px;
+}
+.fifthdiv{
+    background-color: rgb(233, 233, 233);
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+.writefifth{
+    margin-left: 140px;
+}
+.ou{
+    color: rgb(58, 58, 58);
+}
+.colsfifth{
+    margin: 40px 0px 0px 0px;
+}
+.serimg{
+    width: 330px;
+    height: 380px;
+    backface-visibility: hidden;
+}
+.te{
+    color: white;
+}
+.middle{
+    width: 330px;
+    height: 380px;
+    padding-top: 150px;
+    transition: 0.2s all ease-in-out;
+  opacity: 0;
+  position: absolute;
+  top: 50%;
+  left: 46%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  text-align: center;
+}
+.con1{
+    position: relative;
+}
+.con1:hover .serimg {
+    opacity: 0.3;
+  }
+.con1:hover .middle {
+    opacity: 0.6;
+     background-color:  rgb(250, 94, 3);
+}
+.con1:hover .te {
+    opacity: 1;
+}
+.sixthdiv{
+    background-image: url("Images/back.jpg");
+    background-repeat: no-repeat;
+    background-size: 100vw 70vh;
+    height: 250px;
+    padding-top: 40px;
+}
+.sixthrow{
+    text-align: center;
+    color: white;
+}
+.oran{
+    color: rgb(250, 94, 3);
+    width: 100px;
+    margin-top: -35px;
+    margin-left: 75px;
+}
+.in{
+    margin-top: 10px;
+}
+.icosixth{
+    font-size: 40px;
+}
+.seventhdiv{
+    background-color: rgb(233, 233, 233);
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+.howimage{
+    width: 260px;
+    height: 280px;
+}
+.numbers{
+    background-color:  rgb(250, 94, 3);
+    color: white;
+    width: 57px;
+    height: 55px;
+    padding: 8px 25px 25px 22px;
+    margin-top: 8px;
+    
+}
+.number{
+    background-color:  rgb(250, 94, 3);
+    color: white;
+    width: 57px;
+    height: 55px;
+    padding: 8px 25px 25px 22px;
+    margin-bottom: 18px;
+    
+}
+.inl{
+   margin-left: 80px;
+   margin-top: -45px;
+}
+.fa-quote-left{
+    font-size: 40px;
+    color: rgb(250, 94, 3);
+}
+.carouh5{
+    color: black;
+    line-height: 1.8;
+}
+.imgicon{
+    text-align: center;
+    width: 60px;
+    height: 60px;
+    border: 1px solid black;
+    border-radius: 70px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+.carou{
+    text-align: center;
+    margin-bottom: 100px;
+    width: 35%;
+    margin-left: 225px;
+}
+.writeeight{
+    text-align: center;
+    margin-bottom: 60px;
+}
+.eigthimg{
+    width: 350px;
+    height: 220px;
+}
+.by{
+    margin-left: 80px;
+    margin-top: -60px;
+}
+.by h6{
+    font-size: 18px;
+    display: inline;
+}
+.or{
+    color:  rgb(250, 94, 3) !important;
+}
+.writess{
+    margin: 20px;
+}
+.anc{
+    color: black;
+    text-decoration: none;
+    transition: 0.2s all ease-in-out;
+}
+.anc:hover{
+    color: rgb(250, 94, 3) !important;
+}
+.contt{
+    background-image: url("Images/back.jpg");
+    background-repeat: no-repeat;
+    background-size: 100vw 90vh;
+    color: white;
+}
+.contact-form{
+    padding: 50px 0px 50px 0px;
+}
+.contact-form input {
+    background-color: rgb(168, 196, 255);
+    font-weight: bold;
+    display: inline;
+    width: 32%;
+    padding: 8px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin-right: 20px;
+    margin-bottom: 17px;
+    border: 1px solid black;
+}
+.form{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+#msg {
+    display: block;
+    border: 1px solid black;
+    background-color:rgb(168, 196, 255);
+    color: white !important;
+    font-weight: bold;
+    width: 66%;
+    padding: 7px;
+}
+.send{
+    font-weight: 400 !important;
+    width: 160px;
+}
+#tires{
+    background-color:rgb(168, 196, 255);
+    border: 1px solid black;
+    font-weight: bold;
+    color:grey !important;
+    display: inline;
+    width: 32%;
+    padding: 8px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin-right: 20px;
+    margin-bottom: 17px;
+}
+.ninth{
+    margin: 80px;
+    text-align: center;
+}
+.ninthico{
+    display: inline;
+    font-size: 75px;
+    margin-left: 100px;
+}
+.ninthic{
+    display: inline;
+    font-size: 75px;
+}
+.tenth{
+    background-color: rgb(17, 41, 92);
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+.autas{
+    display: inline;
+    color:rgb(250, 94, 3)  ;
+    font-size: 32px !important;
+}
+.logics{
+    display: inline;
+    color: white;
+    margin-left: -4px;
+    font-weight: 500 !important;
+    font-size: 32px !important;
+}
+.carss{
+    font-size: 15px;
+    color: white;
+}
+.caric{
+    font-size: 55px !important;
+}
+.brandnames{
+    margin-top: -55px;
+    margin-left: 70px;
+}
+.simple{
+    font-size: 16px !important;
+    color: white;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+.re{
+    color: white;
+    font-size: 37px;
+}
+.tentimg{
+    margin-top: 20px;
+}
+.inli{
+    margin-left: 110px;
+    margin-top: -100px;
+}
+.wrt{
+    color: white;
+    line-height: 1.6;
+    font-weight: 400;
+}
+.datgrey{
+    color: rgb(184, 184, 184) !important;
+}
+.add{
+    line-height: 1.7;
+    color:  rgb(184, 184, 184);
+    font-size: 20px;
+    margin-top: 20px;
+}
+.phone{
+    line-height: 1.7;
+    color:  rgb(184, 184, 184);
+    font-size: 20px;
+}
+.email{
+    line-height: 1.7;
+    color:  rgb(184, 184, 184);
+    font-size: 20px;
+}
+.conttt{
+    margin-top: 20px;
+}
+.list{
+    font-size: 20px;
+    margin-top: 20px;
+}
+.ul {
+    list-style: none;
+  }
+  
+.ul .li::before {
+    content: "\2022";
+    color: rgb(250, 94, 3);
+    font-weight: bold;
+    display: inline-block; 
+    width: 1em;
+    margin-left: -1em;
+}
+.li{
+    color: white;
+    margin-top: 3px;
+}
+.cop{
+    font-size: 21px;
+    background-color:  rgb(27, 60, 131);
+    color: white;
+    text-align: center;
+    padding: 15px 0px 15px 0px;
+}
+.fixed{
+    position: fixed;
+    bottom: 4px;
+    right: 8px;
+    height: 45px;
+    width: 50px;
+    padding-top: 4px;
+    padding-left:18px;
+    background-color:  rgb(250, 94, 3);
+    color: white;
+    font-size: 25px;
+}
+.dec{
+    text-decoration: none;
+    color: white;
+    transition: 0.1s all ease-in-out;
+}
+.dec:hover{
+    text-decoration: none;
+    color: white;
+}
+@media screen and (max-width: 700px){
+    .firstcol2{
+        margin-left: 0px;
+    }
+    .social{
+        margin-left: 3px;
+    }
+    .con{
+        margin-left: 50px;
+        margin-top: -45px;
+    }
+    .secdivseccol{
+        margin-left: 3px;
+        margin-top: 30px;
+        margin-bottom: 30px;
+    }
+    .navcol{
+        font-size: 19px;
+        font-weight: 540!important;
+        margin-left: 0px !important;
+    }
+    .navbr{
+        margin-right: 270px;
+    }
+    .thirddiv{
+        background-color: rgb(235, 235, 235);
+        padding-top: 10px ;
+        height: 400px;
+    }
+    .fourthseccol{
+        margin-top: 20px;
+        margin-left: 5px;
+    }
+    .fourthdiv{
+        padding-top: 50px;
+        margin-bottom: 20px;
+    }
+    .writefifth{
+        margin-left: 20px;
+    }
+    .colsfifth{
+        margin: 25px 0px 25px 0px;
+    }
+    .colsfi{
+        margin: 25px 0px 25px 0px;
+    }
+    .howwrite{
+        margin-top: 12px;
+        margin-bottom: 12px;
+    }
+    .set{
+        margin-top: 12px;
+    }
+    .carou{
+        text-align: center;
+        margin-bottom: 10px;
+        width: 100%;
+        margin-left: 5px;
+    }
+    .eigthimg{
+        width: 335px;
+        height: 220px;
+    }
+    .contact-form{
+        padding: 50px 0px 50px 8px;
+    }
+    .contact-form input {
+        display: block;
+        width: 95%;
+    }
+    #tires{
+        width: 95%;
+    }
+    #msg {
+        width: 95%;
+    }
+    .contt{
+        background-image: url("Images/back.jpg");
+        background-repeat: no-repeat;
+        background-size: 100vw 100vh;
+        color: white;
+    }
+    .ninth{
+        margin: 10px;
+        text-align: center;
+    }
+    .ninthico{
+        display: inline;
+        font-size: 35px;
+        margin-left: 40px;
+    }
+    .ninthic{
+        display: inline;
+        font-size: 35px;
+    }
+    .re{
+        margin-top: 15px;
+    }
+    .img{
+        width: 95%;
+        height: 85%;
+    }
+    .oran{
+        color: rgb(250, 94, 3);
+        width: 100px;
+        margin-top: -25px;
+        margin-left: 115px;
+    }
+    .serimg{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .sixthdiv{
+        background-image: url("Images/back.jpg");
+        background-repeat: no-repeat;
+        background-size: 100vw 100vh;
+        height: 650px;
+        padding-top: 40px;
+    }
+}

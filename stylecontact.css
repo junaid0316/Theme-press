@@ -1,0 +1,464 @@
+body{
+    font-family: calibri;
+}
+.first{
+    background-color: rgb(3, 34, 100);
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 8px;
+}
+.clo{
+    margin-left: 26px;
+    margin-top: -24px;
+    
+}
+.firstcol2{
+    margin-left: -10px;
+}
+.tim{
+    font-size: 18px;
+}
+.fa-clock{
+    font-weight: 500 !important;
+}
+.socico{
+    padding: 4px;
+    padding-left: 6px;
+    background-color:  rgb(32, 53, 97);
+    color:white;
+    margin-right: 15px;
+    width: 30px;
+    height: 25px;
+    border: 1px solid  rgb(32, 53, 97);
+    border-radius: 30px;
+}
+.social{
+    margin-left: 200px;
+}
+.secdiv{
+    padding-top: 30px;
+}
+.fa-car-mechanic{
+    font-size: 60px !important;
+  background: -webkit-linear-gradient(rgb(250, 94, 3), rgb(245, 124, 55));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.brandname{
+    margin-top: -65px;
+    margin-left: 70px;
+}
+.auta{
+    display: inline;
+    color: rgb(17, 41, 92);
+    font-size: 37px !important;
+}
+.logic{
+    display: inline;
+    color: rgb(250, 94, 3);
+    margin-left: -4px;
+    font-weight: 530 !important;
+    font-size: 37px !important;
+}
+.car{
+    color: rgb(17, 41, 92);
+}
+.fa-envelope-open-text{
+    color:  rgb(250, 94, 3);
+    font-size: 28px !important;
+}
+.fa-phone-volume{
+    transform: rotate(-40deg);
+    color:  rgb(250, 94, 3);
+    font-size: 28px !important;
+}
+.con{
+    margin-left: 50px;
+    margin-top: -45px;
+}
+.btn-primary{
+    background-color:  rgb(250, 94, 3);
+    color: white;
+    border: 1px solid rgb(250, 94, 3);
+    height: 50px;
+    width: 130px;
+    transition: 0.2s all ease-in-out;
+}
+.btn-primary:hover{
+    color:  rgb(250, 94, 3);
+    background-color: white;
+    border: 1px solid rgb(250, 94, 3);
+}
+.secdivseccol{
+    margin-left: 160px;
+}
+.navbar{
+    background-color: rgb(250, 94, 3) !important; 
+    margin-top: 8px;
+}
+.nav-item{
+    margin-left: 15px;
+}
+.nav-link{
+    color: white !important;
+    transition: 0.3s all ease-in-out;
+}
+.nav-link:hover{
+    text-decoration: underline;
+}
+.navcol{
+    font-size: 19px;
+    font-weight: 540!important;
+    margin-left: 80px !important;
+}
+.drpitem{
+    transition: 0.2s all ease-in-out;
+}
+.drpitem:hover{
+    color:  rgb(250, 94, 3);
+}
+.sticky {
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+    height: 100px;
+}
+.btn-secondary{
+    background-color:  rgb(250, 94, 3);
+    color: white;
+    border: 1px solid rgb(250, 94, 3);
+    height: 50px;
+    width: 130px;
+    transition: 0.2s all ease-in-out;
+    font-weight: 600;
+    font-size: 18px;
+    margin-top: 30px;
+}
+.btn-secondary:hover{
+    color:  rgb(250, 94, 3);
+    background-color: white;
+    border: 1px solid rgb(250, 94, 3);
+}
+.slid{
+    background-image: url("Images/back.jpg");
+    background-repeat: no-repeat;
+    background-size: 100vw 60vh;
+    height: 300px;
+    text-align: center;
+    padding-top: 50px;
+}
+.our{
+    color: white;
+}
+.home{
+    color: white;
+    transition: 0.2s all ease-in-out;
+    font-size: 22px;
+    text-decoration: none;
+}
+.home:hover{
+    color:  rgb(250, 94, 3);
+}
+.ser{
+    color: rgb(250, 94, 3);
+    transition: 0.2s all ease-in-out;
+    font-size: 22px;
+    text-decoration: none;
+}
+.ser:hover{
+    color:  rgb(250, 94, 3);
+}
+.get{
+    background-image: url("Images/get.jpg");
+    background-repeat: no-repeat;
+    background-size: 40vw 60vh;
+    height: 500px;
+    margin-top: 30px;
+}
+.gets{
+    color: black;
+    font-size: 37px;
+}
+.contt{
+    color: white;
+    margin-top: 80px;
+}
+.contact-form{
+    padding: 0px 0px 50px 0px;
+}
+.contact-form input {
+    background-color: rgb(247, 254, 255);
+    display: inline;
+    width: 46%;
+    padding: 8px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin-right: 20px;
+    margin-bottom: 17px;
+    border: 1px solid black;
+}
+.form{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+#msg {
+    display: block;
+    border: 1px solid black;
+    background-color: rgb(247, 254, 255);
+    color: black !important;
+    width: 97%;
+    padding: 7px;
+}
+.send{
+    font-weight: 400 !important;
+    width: 160px;
+}
+#tires{
+    background-color: rgb(247, 254, 255);
+    border: 1px solid black;
+    display: inline;
+    width: 38%;
+    padding: 8px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin-right: 20px;
+    margin-bottom: 17px;
+}
+.re{
+    color:white !important;
+    font-size: 37px;
+}
+.hr{
+    margin-top: -35px;
+    color:  rgb(250, 94, 3);
+}
+.grey{
+    background-color: rgb(255, 244, 244);
+    padding: 30px 20px 0px 20px;
+    margin-left: 10px;
+    height: 150px;
+}
+.greys{
+    background-color: rgb(255, 244, 244);
+    padding: 30px 20px 0px 20px;
+    margin-left: 10px;
+    height: 150px;
+}
+.ico{
+    color:  rgb(250, 94, 3);
+    background-color:  rgb(255, 173, 125);
+    font-size: 25px;
+    padding-top: 20px;
+    padding-left: 28px;
+    width: 80px;
+    height: 80px;
+    border: 1px solid rgb(253, 153, 95);
+    border-radius: 50px;
+}
+.cons{
+    margin-left: 100px;
+    margin-top: -75px;
+}
+.cal{
+    font-size: 25px;
+    font-weight: 550;
+}
+.num{
+    color: grey;
+}
+.map{
+    padding: 80px;
+}
+.maps{
+    width: 100%;
+    height: 500px;
+}
+.tenth{
+    background-color: rgb(17, 41, 92);
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+.autas{
+    display: inline;
+    color:rgb(250, 94, 3)  ;
+    font-size: 32px !important;
+}
+.logics{
+    display: inline;
+    color: white;
+    margin-left: -4px;
+    font-weight: 500 !important;
+    font-size: 32px !important;
+}
+.carss{
+    font-size: 15px;
+    color: white;
+}
+.caric{
+    font-size: 55px !important;
+}
+.brandnames{
+    margin-top: -55px;
+    margin-left: 70px;
+}
+.simple{
+    font-size: 16px !important;
+    color: white;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+.re{
+    color: white;
+    font-size: 37px;
+}
+.tentimg{
+    margin-top: 20px;
+}
+.inli{
+    margin-left: 110px;
+    margin-top: -100px;
+}
+.wrt{
+    color: white;
+    line-height: 1.6;
+    font-weight: 400;
+}
+.datgrey{
+    color: rgb(184, 184, 184) !important;
+}
+.add{
+    line-height: 1.7;
+    color:  rgb(184, 184, 184);
+    font-size: 20px;
+    margin-top: 20px;
+}
+.phone{
+    line-height: 1.7;
+    color:  rgb(184, 184, 184);
+    font-size: 20px;
+}
+.email{
+    line-height: 1.7;
+    color:  rgb(184, 184, 184);
+    font-size: 20px;
+}
+.conttt{
+    margin-top: 20px;
+}
+.list{
+    font-size: 20px;
+    margin-top: 20px;
+}
+.ul {
+    list-style: none;
+  }
+  
+.ul .li::before {
+    content: "\2022";
+    color: rgb(250, 94, 3);
+    font-weight: bold;
+    display: inline-block; 
+    width: 1em;
+    margin-left: -1em;
+}
+.li{
+    color: white;
+    margin-top: 3px;
+}
+.cop{
+    font-size: 21px;
+    background-color:  rgb(27, 60, 131);
+    color: white;
+    text-align: center;
+    padding: 15px 0px 15px 0px;
+}
+.fixed{
+    position: fixed;
+    bottom: 4px;
+    right: 8px;
+    height: 45px;
+    width: 50px;
+    padding-top: 4px;
+    padding-left:18px;
+    background-color:  rgb(250, 94, 3);
+    color: white;
+    font-size: 25px;
+}
+.dec{
+    text-decoration: none;
+    color: white;
+    transition: 0.1s all ease-in-out;
+}
+.dec:hover{
+    text-decoration: none;
+    color: white;
+}
+@media screen and (max-width: 700px){
+    .firstcol2{
+        margin-left: 0px;
+    }
+    .social{
+        margin-left: 3px;
+    }
+    .con{
+        margin-left: 50px;
+        margin-top: -45px;
+    }
+    .secdivseccol{
+        margin-left: 3px;
+        margin-top: 30px;
+        margin-bottom: 30px;
+    }
+    .navcol{
+        font-size: 19px;
+        font-weight: 540!important;
+        margin-left: 0px !important;
+    }
+    .navbr{
+        margin-right: 200px;
+    }
+    .slid{
+        background-image: url("Images/back.jpg");
+        background-repeat: no-repeat;
+        background-size: 100vw 40vh;
+        height: 200px;
+        text-align: center;
+        padding-top: 50px;
+    }
+    .get{
+        background-image: url("Images/get.jpg");
+        background-repeat: no-repeat;
+        background-size: 100vw 60vh;
+        width: 100%;
+        height: 500px;
+        margin-top: 30px;
+    }
+    #msg {
+        width: 98%;
+       
+    }
+    #tires{
+        width: 98%;
+    }
+    .contact-form input {
+        width: 98%;
+    }
+    .map{
+        padding: 10px;
+    }
+    .maps{
+        width: 100%;
+        height: 450px;
+    }
+    .re{
+        margin-top: 10px;
+    }
+    .navcol{
+        font-size: 19px;
+        font-weight: 540!important;
+        margin-left: 0px !important;
+    }
+    .navbr{
+        margin-right: 270px;
+    }
+}

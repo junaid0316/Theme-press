@@ -1,0 +1,494 @@
+body{
+    font-family: calibri;
+}
+.first{
+    background-color: rgb(3, 34, 100);
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 8px;
+}
+.clo{
+    margin-left: 26px;
+    margin-top: -24px;
+    
+}
+.firstcol2{
+    margin-left: -10px;
+}
+.tim{
+    font-size: 18px;
+}
+.fa-clock{
+    font-weight: 500 !important;
+}
+.socico{
+    padding: 4px;
+    padding-left: 6px;
+    background-color:  rgb(32, 53, 97);
+    color:white;
+    margin-right: 15px;
+    width: 30px;
+    height: 25px;
+    border: 1px solid  rgb(32, 53, 97);
+    border-radius: 30px;
+}
+.social{
+    margin-left: 200px;
+}
+.secdiv{
+    padding-top: 30px;
+}
+.fa-car-mechanic{
+    font-size: 60px !important;
+  background: -webkit-linear-gradient(rgb(250, 94, 3), rgb(245, 124, 55));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.brandname{
+    margin-top: -65px;
+    margin-left: 70px;
+}
+.auta{
+    display: inline;
+    color: rgb(17, 41, 92);
+    font-size: 37px !important;
+}
+.logic{
+    display: inline;
+    color: rgb(250, 94, 3);
+    margin-left: -4px;
+    font-weight: 530 !important;
+    font-size: 37px !important;
+}
+.car{
+    color: rgb(17, 41, 92);
+}
+.fa-envelope-open-text{
+    color:  rgb(250, 94, 3);
+    font-size: 28px !important;
+}
+.fa-phone-volume{
+    transform: rotate(-40deg);
+    color:  rgb(250, 94, 3);
+    font-size: 28px !important;
+}
+.con{
+    margin-left: 50px;
+    margin-top: -45px;
+}
+.btn-primary{
+    background-color:  rgb(250, 94, 3);
+    color: white;
+    border: 1px solid rgb(250, 94, 3);
+    height: 50px;
+    width: 130px;
+    transition: 0.2s all ease-in-out;
+}
+.btn-primary:hover{
+    color:  rgb(250, 94, 3);
+    background-color: white;
+    border: 1px solid rgb(250, 94, 3);
+}
+.secdivseccol{
+    margin-left: 160px;
+}
+.navbar{
+    background-color: rgb(250, 94, 3) !important; 
+    margin-top: 8px;
+}
+.nav-item{
+    margin-left: 15px;
+}
+.nav-link{
+    color: white !important;
+    transition: 0.3s all ease-in-out;
+}
+.nav-link:hover{
+    text-decoration: underline;
+}
+.navcol{
+    font-size: 19px;
+    font-weight: 540!important;
+    margin-left: 80px !important;
+}
+.drpitem{
+    transition: 0.2s all ease-in-out;
+}
+.drpitem:hover{
+    color:  rgb(250, 94, 3);
+}
+.sticky {
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+    height: 100px;
+}
+.btn-secondary{
+    background-color:  rgb(250, 94, 3);
+    color: white;
+    border: 1px solid rgb(250, 94, 3);
+    height: 50px;
+    width: 130px;
+    transition: 0.2s all ease-in-out;
+    font-weight: 600;
+    font-size: 18px;
+    margin-top: 30px;
+}
+.btn-secondary:hover{
+    color:  rgb(250, 94, 3);
+    background-color: white;
+    border: 1px solid rgb(250, 94, 3);
+}
+.slid{
+    background-image: url("Images/back.jpg");
+    background-repeat: no-repeat;
+    background-size: 100vw 40vh;
+    height: 200px;
+    text-align: center;
+    padding-top: 50px;
+}
+.our{
+    color: white;
+}
+.home{
+    color: white;
+    transition: 0.2s all ease-in-out;
+    font-size: 22px;
+    text-decoration: none;
+}
+.home:hover{
+    color:  rgb(250, 94, 3);
+}
+.ser{
+    color: rgb(250, 94, 3);
+    transition: 0.2s all ease-in-out;
+    font-size: 22px;
+    text-decoration: none;
+}
+.ser:hover{
+    color:  rgb(250, 94, 3);
+}
+.linser{
+    color: white;
+    transition: 0.5s all ease-in-out;
+}
+.linser:hover{
+    text-decoration: none;
+    color: white;
+}
+.ourser{
+    padding: 15px 0px 15px 10px;
+    color: white;
+    background-color: rgb(3, 88, 109);
+    font-weight: 360;
+    font-size: 22px;
+}
+.ours{
+    width: 350px;
+    background-color:  rgb(236, 236, 236);
+    color: white;
+    padding: 20px;
+}
+.servic{
+    background-color:rgb(236, 236, 236);
+    color: grey;
+    font-weight: bold;
+    font-size: 20px;
+    margin-bottom: 2px ;
+    padding: 10px;
+    width: 280px;
+    transition: 0.2s all ease-in-out;
+}
+.servic:hover{
+    color:  rgb(250, 94, 3);
+}
+.cat{
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+.hr{
+    margin-top: -45px !important;
+    color:  rgb(250, 94, 3);
+    display: inline;
+}
+.how{
+    color: black;
+    font-weight: 600 !important;
+    display: inline;
+}
+.discount{
+    background-image: url("Images/ser5.jpg");
+    background-repeat: no-repeat;
+    background-size: 28vw 50vh;
+    width: 350px;
+    height: 300px;
+    text-align: center;
+    padding-top: 60px;
+}
+.get{
+    color: white;
+    display: inline;
+    font-size: 45px;
+}
+.percnt{
+    color: rgb(250, 94, 3);
+    display: inline;
+    font-size: 60px;
+}
+.all{
+    color: white;
+    font-size: 60px;
+}
+.grey{
+    background-color: rgb(252, 243, 243);
+    padding: 30px 20px 0px 20px;
+    height: 150px;
+    margin-left: -12px;
+    width: 360px;
+}
+.greys{
+    background-color: rgb(252, 243, 243);
+    padding: 30px 20px 0px 20px;
+    margin-top: 20px;
+    margin-left: -12px;
+    height: 150px;
+    width: 360px;
+}
+.ico{
+    color:  rgb(250, 94, 3);
+    font-size: 25px;
+    padding-top: 20px;
+    padding-left: 28px;
+    width: 80px;
+    height: 80px;
+}
+.cons{
+    margin-left: 80px;
+    margin-top: -75px;
+}
+.cal{
+    font-size: 22px;
+    font-weight: 500;
+}
+.num{
+    color: grey;
+}
+.tireimg{
+    width: 730px;
+    height: 350px;
+}
+.blue{
+    width: 20px;
+    background-color: rgb(0, 119, 255);
+}
+.world{
+    padding: 40px;
+    background-color: rgb(197, 197, 197);
+    font-style: italic;
+    font-weight: bold;
+}
+.imagee{
+    width: 380px ;
+    height: 260px;
+}
+.btn-light{
+    width: 360px;
+    height: 60px;
+    border: 1px solid rgb(204, 204, 204);
+    font-size: 20px;
+    transition: 0.3s all ease-in-out;
+}
+.btn-light:hover{
+    background-color: rgb(219, 213, 213);
+    color: rgb(250, 94, 3);
+}
+.categories{
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
+.tenth{
+    background-color: rgb(17, 41, 92);
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+.autas{
+    display: inline;
+    color:rgb(250, 94, 3)  ;
+    font-size: 32px !important;
+}
+.logics{
+    display: inline;
+    color: white;
+    margin-left: -4px;
+    font-weight: 500 !important;
+    font-size: 32px !important;
+}
+.carss{
+    font-size: 15px;
+    color: white;
+}
+.caric{
+    font-size: 55px !important;
+}
+.brandnames{
+    margin-top: -55px;
+    margin-left: 70px;
+}
+.simple{
+    font-size: 16px !important;
+    color: white;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+.re{
+    color: white;
+    font-size: 37px;
+}
+.tentimg{
+    margin-top: 20px;
+}
+.inli{
+    margin-left: 110px;
+    margin-top: -100px;
+}
+.wrt{
+    color: white;
+    line-height: 1.6;
+    font-weight: 400;
+}
+.datgrey{
+    color: rgb(184, 184, 184) !important;
+}
+.add{
+    line-height: 1.7;
+    color:  rgb(184, 184, 184);
+    font-size: 20px;
+    margin-top: 20px;
+}
+.phone{
+    line-height: 1.7;
+    color:  rgb(184, 184, 184);
+    font-size: 20px;
+}
+.email{
+    line-height: 1.7;
+    color:  rgb(184, 184, 184);
+    font-size: 20px;
+}
+.conttt{
+    margin-top: 20px;
+}
+.list{
+    font-size: 20px;
+    margin-top: 20px;
+}
+.ul {
+    list-style: none;
+  }
+  
+.ul .li::before {
+    content: "\2022";
+    color: rgb(250, 94, 3);
+    font-weight: bold;
+    display: inline-block; 
+    width: 1em;
+    margin-left: -1em;
+}
+.li{
+    color: white;
+    margin-top: 3px;
+}
+.cop{
+    font-size: 21px;
+    background-color:  rgb(27, 60, 131);
+    color: white;
+    text-align: center;
+    padding: 15px 0px 15px 0px;
+}
+.fixed{
+    position: fixed;
+    bottom: 4px;
+    right: 8px;
+    height: 45px;
+    width: 50px;
+    padding-top: 4px;
+    padding-left:18px;
+    background-color:  rgb(250, 94, 3);
+    color: white;
+    font-size: 25px;
+}
+.dec{
+    text-decoration: none;
+    color: white;
+    transition: 0.1s all ease-in-out;
+}
+.dec:hover{
+    text-decoration: none;
+    color: white;
+}
+@media screen and (max-width: 700px){
+    .firstcol2{
+        margin-left: 0px;
+    }
+    .social{
+        margin-left: 3px;
+    }
+    .con{
+        margin-left: 50px;
+        margin-top: -45px;
+    }
+    .secdivseccol{
+        margin-left: 3px;
+        margin-top: 30px;
+        margin-bottom: 30px;
+    }
+    .navcol{
+        font-size: 19px;
+        font-weight: 540!important;
+        margin-left: 0px !important;
+    }
+    .navbr{
+        margin-right: 200px;
+    }
+    .discount{
+        background-image: url("Images/ser5.jpg");
+        background-repeat: no-repeat;
+        background-size: 100vw 100vh;
+        width: 100%;
+        height: 300px;
+        text-align: center;
+        padding-top: 60px;
+    }
+    .tireimg{
+        width: 100%;
+        height: 350px;
+    }
+    .imagee{
+        width: 100% ;
+        height: 260px;
+    }
+    .btn-light{
+        width: 165px;
+        height: 60px;
+        border: 1px solid rgb(204, 204, 204);
+        font-size: 20px;
+        transition: 0.3s all ease-in-out;
+    }
+    .slid{
+        background-image: url("Images/back.jpg");
+        background-repeat: no-repeat;
+        background-size: 100vw 60vh;
+        height: 230px;
+        text-align: center;
+        padding-top: 50px;
+    }
+    .navcol{
+        font-size: 19px;
+        font-weight: 540!important;
+        margin-left: 0px !important;
+    }
+    .navbr{
+        margin-right: 270px;
+    }
+    
+}
